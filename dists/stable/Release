@@ -1,18 +1,18 @@
-Origin: VentureNamics
-Label: VentureNamics
+Origin: prev.sh
+Label: prev.sh
 Suite: stable
 Codename: stable
-Date: Thu, 12 Mar 2026 18:48:46 +0000
+Date: Thu, 19 Mar 2026 11:41:15 +0000
 Architectures: amd64 arm64
 Components: main
-Description: VentureNamics APT Repository
+Description: prev.sh APT Repository
 MD5Sum:
- 6030fb262f6a8fbf813df9807761e185 364 main/binary-arm64/Packages.gz
- c1f368cce1dcd84adb6950b56d7a17a5 463 main/binary-arm64/Packages
- 6267f8cff1b31719c49f58f5eaa39c96 363 main/binary-amd64/Packages.gz
- 17fbdfc740c8c746e55d2aa57359b9c3 463 main/binary-amd64/Packages
+ 1adc4462b82271f3b53d1592c520eb81 362 main/binary-arm64/Packages.gz
+ b2f924940d4533cd56fb313b5923de01 463 main/binary-arm64/Packages
+ 8c6c761c41891fc13ebd16f484f32662 360 main/binary-amd64/Packages.gz
+ 4230247364089a046e4ed1a12bad43d4 463 main/binary-amd64/Packages
 SHA256:
- 92ae698852ab1eba58720712b949b9501302fa06f218847c7a0c19d48653d181 364 main/binary-arm64/Packages.gz
- e6b992c04f5c098503bd4f5c6d06aed051062a59f813e50017128c798d350298 463 main/binary-arm64/Packages
- 73e805215759cd8a80d1debdafa7ff5ae6a0e9f3378a08a670aa7b64e60b8303 363 main/binary-amd64/Packages.gz
- 89403f1bf99be1b14c6ed6a3ee8c847ad3ffcdb01173002d2b22c21785ffd0b7 463 main/binary-amd64/Packages
+ c066c43edde486b73f4a3e4d925b9ada72541e8b3cba0a510f8b79e7985d160a 362 main/binary-arm64/Packages.gz
+ 5364173f880548e8d514a873262cc50d848912464b72f49a79aacc1815fba9a3 463 main/binary-arm64/Packages
+ e4293d8f7a8a381b20ca85c0f438c452f50c50548c9af4dc029affd68ca6235e 360 main/binary-amd64/Packages.gz
+ d10c6284f694a2c611baf8cdb8dd939fdde145198d8731c2e9cea8a1d8c3507d 463 main/binary-amd64/Packages
