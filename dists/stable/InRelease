@@ -5,24 +5,24 @@ Origin: prev.sh
 Label: prev.sh
 Suite: stable
 Codename: stable
-Date: Thu, 19 Mar 2026 11:49:24 +0000
+Date: Thu, 19 Mar 2026 12:00:28 +0000
 Architectures: amd64 arm64
 Components: main
 Description: prev.sh APT Repository
 MD5Sum:
- 70c5273e36218186548f2f35f916727c 362 main/binary-arm64/Packages.gz
- 5406208ff4bb8d9069d1da0088cc89be 463 main/binary-arm64/Packages
- d99a939bea179d9cf0306744973cbac9 363 main/binary-amd64/Packages.gz
- 5816bb0a15c9d7fcd4829f89eb17b5ff 463 main/binary-amd64/Packages
+ c8777ffd86eecf22f96bae91abd2675a 363 main/binary-arm64/Packages.gz
+ 97d02b75532034f48024527e629d5260 463 main/binary-arm64/Packages
+ 5553ce3e28c54b724e6b84edf66000a9 363 main/binary-amd64/Packages.gz
+ 96ac4aef05dac6413dc20b56bdb6ee3d 463 main/binary-amd64/Packages
 SHA256:
- 1e0333ba5509c6189ef917210c5f9b34ca24f98a44eacbbf6e880045880eb217 362 main/binary-arm64/Packages.gz
- 147e4f9de5300f509cffd04006a942c3bf1456058fe45edb2e4d81400647fa05 463 main/binary-arm64/Packages
- 357f56b7e8bd6e130fbde37e515dc248cd6b2dfcd796ddfbc7964989a12f3dee 363 main/binary-amd64/Packages.gz
- aa05a6cc7b5b99ece0cb8b7542c745851dbd5d59bd9b3c53682552be92bdf3ac 463 main/binary-amd64/Packages
+ 60c9af2b8c64622df09d985ade94561c92904e05a46d594959cea828516da13d 363 main/binary-arm64/Packages.gz
+ abff460c0f5d42bd7713de30fe8cb4fec0acfa66bd6c44942922bcd7a00699e1 463 main/binary-arm64/Packages
+ 93ca400f621884764969f06defeb47bbd239ad3575e3e89a434a9753bc08b44a 363 main/binary-amd64/Packages.gz
+ 6263559dfd685e11c66bf7bdb1731d99dd0f212105fbb51b0a3f5281d6b8159f 463 main/binary-amd64/Packages
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQ7p1cVs2HKBe3qrGYzl0d5/suEBAUCabvixAAKCRAzl0d5/suE
-BLbfAP49kz5gNYIez1Deio0xnr6Zh4LmwRXmHpMz97IOfTFtHwEA3KLgjZ0swv4A
-HHxKMDrE2+2BdZyXYppqRTh1PVMneA0=
-=a5iD
+iHUEARYKAB0WIQQ7p1cVs2HKBe3qrGYzl0d5/suEBAUCabvlXAAKCRAzl0d5/suE
+BAl6AP9wDoGrXFNI2LGJwtEOepgO/nxU3ilHr7sg5MoQimKCrQEA7lzK4AIyNyR7
+QPZ6aTDtvpDyKSKmX02I7SO0omL8GgU=
+=eWkT
 -----END PGP SIGNATURE-----
