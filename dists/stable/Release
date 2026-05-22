@@ -2,17 +2,17 @@ Origin: prev.sh
 Label: prev.sh
 Suite: stable
 Codename: stable
-Date: Fri, 22 May 2026 15:28:17 +0000
+Date: Fri, 22 May 2026 15:35:47 +0000
 Architectures: amd64 arm64
 Components: main
 Description: prev.sh APT Repository
 MD5Sum:
- 383aec2b0d0239ee8a2caf3961b3aa2d 465 main/binary-amd64/Packages
- dfd608c4d5ae0d5a93caa40ddad040fb 365 main/binary-amd64/Packages.gz
- 752063d1c7aaa962909e449bc47fc445 465 main/binary-arm64/Packages
- 0806428d57e478481200c37d0934d17f 363 main/binary-arm64/Packages.gz
+ 737ac1a08e4cbee0a9be436179ea6ce9 465 main/binary-amd64/Packages
+ f436158478a89a7842cd428176db1b44 362 main/binary-amd64/Packages.gz
+ da724c34bcad56b15b064d73a99b3ee4 465 main/binary-arm64/Packages
+ 08a839dbccfc2713ef2f6a390f9e1c81 360 main/binary-arm64/Packages.gz
 SHA256:
- 57d98a88e6ac301b5f1c33feddbb0fde0368ed14e24ae61693ac995a0bd43202 465 main/binary-amd64/Packages
- eec3a124f21f1d0a0bded56f34db0f428bc91ac551d47889b6f6473f6d169004 365 main/binary-amd64/Packages.gz
- a99f4b1f62685d4e160606bdd26ad4bcc79f3f3a8631914aff82b92e9ad77873 465 main/binary-arm64/Packages
- d855e123beb961097785db856d66b8a0134970701d60c9d3821f726f4676abae 363 main/binary-arm64/Packages.gz
+ 47281d192e50de55f04c6342eb25e3c39dacb142b6b058335e7120ad1777dba6 465 main/binary-amd64/Packages
+ c31a96fb4f8e74721266ff93e6e60c2de1f30b97c8049d76dca1bdda26f14d48 362 main/binary-amd64/Packages.gz
+ 0de50c0111569f06a67a1019b6f69168d307a59be389b05546ef5ef613211279 465 main/binary-arm64/Packages
+ 3a8c88c9f963fd850c7182f9f98fef70c9131cb12d0170ce7ca94f6e7e59907b 360 main/binary-arm64/Packages.gz
