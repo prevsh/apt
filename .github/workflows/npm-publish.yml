@@ -1,0 +1,39 @@
+name: Publish to npm
+
+# Triggered on every prevsh/apt release. The Forgejo release-cli workflow
+# uploads cli/dist binaries, deb/rpm packages, AND a prev-cli-X.Y.Z.tgz
+# (built via `npm pack`) as release assets. This action downloads only the
+# .tgz, then publishes via OIDC Trusted Publishing — npmjs verifies the
+# id-token against the trusted-publisher config (this repo + this workflow
+# file), so no NPM_TOKEN secret is needed and no token to rotate.
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      id-token: write
+    steps:
+      - name: Download npm tarball from release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release download "${{ github.event.release.tag_name }}" \
+            --repo "${{ github.repository }}" \
+            --pattern "*.tgz" \
+            --dir ./
+          ls -la *.tgz
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: "24"
+          registry-url: "https://registry.npmjs.org"
+
+      - name: Publish
+        run: |
+          TARBALL=$(ls *.tgz | head -1)
+          npm publish "$TARBALL" --access public --provenance
