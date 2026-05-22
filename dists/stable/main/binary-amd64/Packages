@@ -4,10 +4,10 @@ Architecture: amd64
 Maintainer: support@prev.sh
 Installed-Size: 9168
 Filename: pool/main/prev_1.11.0_amd64.deb
-Size: 3752042
-MD5sum: 5fde02916dc191db896366a26968db71
-SHA1: 33ae3fc1d8ebb00e8e0a60aa4cbddccbbca84f83
-SHA256: 1477818ec156da8ece82d128c21b6bb965c8662690dd4e64c52fb62b1d004019
+Size: 3752038
+MD5sum: f37f31af8e2c0d4ebc69ccec07d57893
+SHA1: b5fa06879f903db9e365642e6aab8a3d5b997772
+SHA256: c54fa1d0214e96578c640b16cc7e534302e6f17ec9896b97b2c8cbce88a7cd46
 Section: devel
 Priority: optional
 Homepage: https://prev.sh
