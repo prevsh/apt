@@ -1,15 +1,18 @@
 name: Publish to npm
 
-# Triggered on every prevsh/apt release. The Forgejo release-cli workflow
-# uploads cli/dist binaries, deb/rpm packages, AND a prev-cli-X.Y.Z.tgz
-# (built via `npm pack`) as release assets. This action downloads only the
-# .tgz, then publishes via OIDC Trusted Publishing — npmjs verifies the
-# id-token against the trusted-publisher config (this repo + this workflow
-# file), so no NPM_TOKEN secret is needed and no token to rotate.
+# Triggered on prevsh/apt release events (published OR released — the
+# latter fires when a release is promoted to "latest", which the Forgejo
+# release-cli workflow does after asset upload). Also exposes
+# workflow_dispatch for manual reruns without a release event.
 
 on:
   release:
-    types: [published]
+    types: [published, released]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Release tag to publish (e.g. v1.11.0)
+        required: true
 
 jobs:
   publish:
@@ -18,11 +21,20 @@ jobs:
       contents: read
       id-token: write
     steps:
+      - name: Resolve release tag
+        id: tag
+        run: |
+          if [ -n "${{ github.event.inputs.tag }}" ]; then
+            echo "value=${{ github.event.inputs.tag }}" >> $GITHUB_OUTPUT
+          else
+            echo "value=${{ github.event.release.tag_name }}" >> $GITHUB_OUTPUT
+          fi
+
       - name: Download npm tarball from release
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh release download "${{ github.event.release.tag_name }}" \
+          gh release download "${{ steps.tag.outputs.value }}" \
             --repo "${{ github.repository }}" \
             --pattern "*.tgz" \
             --dir ./
