@@ -1,17 +1,13 @@
 name: Publish to npm
 
-# Triggered on prevsh/apt release events (published OR released — the
-# latter fires when a release is promoted to "latest", which the Forgejo
-# release-cli workflow does after asset upload). Also exposes
-# workflow_dispatch for manual reruns without a release event.
+# Triggered by prevsh/platform after it uploads the npm tarball asset to
+# this public release repo. Manual dispatch remains available for reruns.
 
 on:
-  release:
-    types: [published, released]
   workflow_dispatch:
     inputs:
       tag:
-        description: Release tag to publish (e.g. v1.11.0)
+        description: Release tag to publish (e.g. cli-v1.12.0)
         required: true
 
 jobs:
