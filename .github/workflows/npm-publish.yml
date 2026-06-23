@@ -1,4 +1,5 @@
 name: Publish to npm
+run-name: Publish ${{ inputs.tag }}
 
 # Triggered by prevsh/platform after it uploads the npm tarball asset to
 # this public release repo. Manual dispatch remains available for reruns.
