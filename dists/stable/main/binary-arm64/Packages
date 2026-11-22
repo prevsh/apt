@@ -1,4 +1,701 @@
 Package: prev
+Version: 0.1.0
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 7872
+Filename: pool/main/prev_0.1.0_arm64.deb
+Size: 3084272
+MD5sum: a209a32534a4549203c51d8e96d6e2bd
+SHA1: b56faf852197df92afd9f211f9386f53fe0e3edd
+SHA256: f9c36d7334a84ee48e2d0d112a9749210fd819b5bb9019f718d8c0d255358cbb
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 0.1.1
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 7872
+Filename: pool/main/prev_0.1.1_arm64.deb
+Size: 3084280
+MD5sum: 8114fa5f936cd80835b33ecc4e1b7826
+SHA1: 019fe168643b9198e69eb4afe3785766c5ccd8e6
+SHA256: 2cf0721eca5b3815a4a5a44154b2f462385eee58c5c034445a0a57314c948c39
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 0.1.2
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 7872
+Filename: pool/main/prev_0.1.2_arm64.deb
+Size: 3084390
+MD5sum: ded67ef82f0b630591466bab6d6519cb
+SHA1: 112e27cca3069cb725eeddaf3a46952a94efb2e2
+SHA256: 3555ff69f763fd1122076117550cbf0868e46a69cc737a244d2fa6ad32673b8d
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 0.2.0
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 7872
+Filename: pool/main/prev_0.2.0_arm64.deb
+Size: 3084332
+MD5sum: 305c97573dd3007c95b2eb151c1c28d7
+SHA1: 5af22200ab521d05b0c5bbb659c92eea7a7e4527
+SHA256: 3eabcb9533f4954b3a637c067f57488514e1c924c7199e252df4a7a6a32e7ae5
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 0.2.1
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 7872
+Filename: pool/main/prev_0.2.1_arm64.deb
+Size: 3084354
+MD5sum: 776505d72f6f293511e67e12eca493de
+SHA1: 18abe8d75f7be01285dbe6e337040b35db4ae403
+SHA256: 5e2f0f9b95f55987986431e9b0ec011771e3b3feaee2ae8729160ee3884793a6
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 0.2.2
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 7872
+Filename: pool/main/prev_0.2.2_arm64.deb
+Size: 3084350
+MD5sum: ec75465c9ebca7fddf3ea7c603d4a760
+SHA1: 65721519f15340e0a610b435a86c8e51a7852d90
+SHA256: 70a3704834a2a86edbb09dbf42b10b402967c962de802f339bed0a66ee16152a
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 0.2.3
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 7872
+Filename: pool/main/prev_0.2.3_arm64.deb
+Size: 3084414
+MD5sum: df9e382f606007fd2e521cc01078b8ed
+SHA1: 10622144a26bfd6ec1a7f1150e1d0b052c55cf06
+SHA256: a23617143334432d2e5cd5f2256a274bed928c6cc22ffb2c7e69c1096d157b30
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 0.2.4
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 7872
+Filename: pool/main/prev_0.2.4_arm64.deb
+Size: 3084358
+MD5sum: b7877e9ff50a36c5905b8a7d30105103
+SHA1: 70ec382a60c12d623e6131b4a3c999f1aac93b2d
+SHA256: b6ee7677e89e654ca507f696e6a1f4759317605b36c0abcc47913261be032457
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 0.2.5
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 7872
+Filename: pool/main/prev_0.2.5_arm64.deb
+Size: 3084348
+MD5sum: ee6ddc5a11a2fdfd99c89341cb3f80bf
+SHA1: 672dd3d220a95ef882c16179e858a0bb7273bd93
+SHA256: c5f08112812c181e93a3e7d402d445c9179f300a517d77f42ed3cb0f4fc4f46d
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 0.2.6
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 7872
+Filename: pool/main/prev_0.2.6_arm64.deb
+Size: 3084340
+MD5sum: ec8abc351394fbf1b4d4bd14522a912d
+SHA1: 90038e0dbc93cdd0a60d63e88decbcd3ba10be66
+SHA256: bcb268937f579cc4dc11978955d76a02e96a6ebddbac2b94065d3fe6b1189807
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 0.2.7
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 7872
+Filename: pool/main/prev_0.2.7_arm64.deb
+Size: 3084336
+MD5sum: 75e38186a8faf879fd754cc560a92c65
+SHA1: 4308f91879a10370d5887d12d3e8088e29960218
+SHA256: 12e6396d779a57f939380a5b028813595e8129412fedaa4b75dd7832e61ddbe2
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 0.3.0
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 7872
+Filename: pool/main/prev_0.3.0_arm64.deb
+Size: 3087176
+MD5sum: 99935307b6132d12fa8656507c4a133d
+SHA1: 738915cef8f93ef8533109e9fd88b4c5475dce3d
+SHA256: ee4cadf2497fd7f16ffff8e7b2cb7b70d45d7dc01158c1356aed90d574a4285c
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 0.4.0
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 7872
+Filename: pool/main/prev_0.4.0_arm64.deb
+Size: 3091622
+MD5sum: 003e679021202d9da37ffe7a2e0d5279
+SHA1: a7eeda3a2ee803f719bfc09e72d394370337cb91
+SHA256: cc784c08f4c5b9fde3c4d4014e0b38a512edd574b8767a3dee3dd7d64164c40e
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 0.5.0
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 7872
+Filename: pool/main/prev_0.5.0_arm64.deb
+Size: 3091378
+MD5sum: d58bf274afe2cf01efb8f3cfc4a41f9b
+SHA1: 469e27d662fc214a445e2cd7e67e66e273f1fe77
+SHA256: b82d23043fba2c73a79dae1e2c0093f3cff8c0a996ff61642b237c1b9ac7f717
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 0.6.0
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 7872
+Filename: pool/main/prev_0.6.0_arm64.deb
+Size: 3097366
+MD5sum: f8b9b0a23eabf535bd2eb0c554f65ec8
+SHA1: 7b5e37e28724704e69de0bebd51a491b38355097
+SHA256: 37ffa2c7603cfd8079693c77555df5547c2751cf399a1d917d864669f07962c0
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 0.7.0
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 7872
+Filename: pool/main/prev_0.7.0_arm64.deb
+Size: 3097486
+MD5sum: c89960404afa98eb5d4e687c64ec9aaa
+SHA1: 89871e9c998dab740d69a1c63b1617574d47f652
+SHA256: e581b5c4d72370bcbad63f96b8350ab7a8f23f75a73a51789f8f58b365880802
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 0.8.0
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 7872
+Filename: pool/main/prev_0.8.0_arm64.deb
+Size: 3099528
+MD5sum: 2eed6b156ac0524f5039a531ab179c1c
+SHA1: 365b25dcc0cd38e4b51e8a07fcc819e224d83ffa
+SHA256: fa941ccca3649cbb52692e044dee2197f1a87d9c1877afadb1598d7fa7a5f9d0
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 1.10.0
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 8320
+Filename: pool/main/prev_1.10.0_arm64.deb
+Size: 3277146
+MD5sum: 43c2f5af92cbdc44656589c9fb70bad6
+SHA1: 295800e0ade74aed08fa0cfbcbfe6f6042999e2c
+SHA256: 84aaf9f574012283f03af5878dec501919bd2d9f3b850c03cf4fbd301bed0941
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 1.10.1
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 8320
+Filename: pool/main/prev_1.10.1_arm64.deb
+Size: 3277278
+MD5sum: 9f6d55e743049274bf2346e1d68872f7
+SHA1: 9eee0cc76e2f4396d0e7eef31c3d3a3495ee300c
+SHA256: 2b99e284745c9671770e6030466b530fa24a01949ab4e43df83bffe95c7d1542
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 1.10.2
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 8256
+Filename: pool/main/prev_1.10.2_arm64.deb
+Size: 3285462
+MD5sum: 57b6c32cae8edece3fdc00c825b534e2
+SHA1: 9aacbb8028609432a21b46eefeeb4bf47cb1eb5c
+SHA256: 8430a49a1d9be22426363503531f62a3acdfb6339931968b7d7f5c6a6bf0ea00
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 1.11.0
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 8512
+Filename: pool/main/prev_1.11.0_arm64.deb
+Size: 3376264
+MD5sum: d407b4ea293d5280c922c7a0fd5c50e6
+SHA1: f385b71beec92787f6b88e3231328b04650a2cfe
+SHA256: b3222a249fd0b665cf47437fdf938af6c623b8f738ac5229b815b5c443792745
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 1.11.1
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 8512
+Filename: pool/main/prev_1.11.1_arm64.deb
+Size: 3376220
+MD5sum: ed09e44d5bd98629233173aa567874d3
+SHA1: 4b8e5c332b18408e2dbbdd9c1cd6eaf4d143edf6
+SHA256: df24e8fc62d224738f2edc377525f56013289f2dbc46d33906c709caf254e4a4
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 1.12.0
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 8512
+Filename: pool/main/prev_1.12.0_arm64.deb
+Size: 3366300
+MD5sum: 61ca7b6ec8feb1097be6925a45853fe1
+SHA1: c2b2ef468c38e5ca1683347cbb2edfd95c8aa03d
+SHA256: ee69bf2d0f4510237d96bde8976275fd59a8395bbac9b8381370e583fd50f542
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 1.12.1
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 8512
+Filename: pool/main/prev_1.12.1_arm64.deb
+Size: 3366342
+MD5sum: 0082cfb61dfe527d5468d1662cf0b71f
+SHA1: afdfc540f3438359ac00694f757382ee4becd8d7
+SHA256: d94d665f021e098a86a4e818d77d267a9249777b278f7dba934b79f9826c0a81
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 1.13.0
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 8512
+Filename: pool/main/prev_1.13.0_arm64.deb
+Size: 3366344
+MD5sum: 1a9d8d0ac9d20ebf83f202468226c3fc
+SHA1: 8669fb19ac1e275193e579206348096b18507045
+SHA256: 3d7e08feb65f07d7410d3a03300640aebf4098440a4e41b605426650ffbd0be3
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 1.14.0
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 8512
+Filename: pool/main/prev_1.14.0_arm64.deb
+Size: 3381706
+MD5sum: c2285140c6938785e8b8172cf3ef4cbe
+SHA1: 8dfc462487220d331f645c395eae4fa862ff47ba
+SHA256: a4ca04da02b0c2f1efa3b0c6343c2b58f5d86ee0f0cc7194e7cbed28536e7bab
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 1.15.0
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 8512
+Filename: pool/main/prev_1.15.0_arm64.deb
+Size: 3381680
+MD5sum: a8fee95e97df273703ce7ad8fee82839
+SHA1: a6309c6a15602b7250558732a29f5c9f3fc8e934
+SHA256: 584a33be115c50669b1f8e1d296bfa24be7f600eac98056198eb11932476aefa
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 1.16.0
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 8512
+Filename: pool/main/prev_1.16.0_arm64.deb
+Size: 3386736
+MD5sum: c8525a3286c34fb5a832d8853c3bfd67
+SHA1: 9f23595e307f22b04aad5c88172b05cb1d30d655
+SHA256: bbd84460e4928c86b9c4a6a58e9332caf39124e95c116199edae24846b6d0000
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 1.17.0
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 8576
+Filename: pool/main/prev_1.17.0_arm64.deb
+Size: 3394390
+MD5sum: d9823969da6af27682519f0a1ec6bbda
+SHA1: 4b04a937e1454c60644827cd59fa99c64eaee6f4
+SHA256: c8c11ab529dcf54218b05d0b5dd7b23f8b6a8b610bc4a935b879f6f22b23eedc
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 1.18.0
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 8576
+Filename: pool/main/prev_1.18.0_arm64.deb
+Size: 3401728
+MD5sum: 8f03652d61459a2441ffcdec79c0aa43
+SHA1: fada6cec85cadbb82ddc140f680847fe986b97c6
+SHA256: da78b2c43b66112b5b129b93eeceafd097b684b97d604a294b0f4449ae5f4646
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 1.19.0
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 8576
+Filename: pool/main/prev_1.19.0_arm64.deb
+Size: 3405208
+MD5sum: b5708446ebbb82cad2a72245a17e9be2
+SHA1: 5805ca67168f0462440dcff39f0250b7b3b41dd0
+SHA256: 1177147eca698f89254dab62ef0ee43c67d856a48f7b9f793f75dc6f4fe5a7db
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 1.8.0
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 7872
+Filename: pool/main/prev_1.8.0_arm64.deb
+Size: 3099536
+MD5sum: 04cafa73700ff3765e2b232c90dc86a3
+SHA1: e3ad0f7a82a9d0d38083cc8d67b6e4fa7695672b
+SHA256: 9bd943e3dd2a53e18b2c443e84a8972b9a51d36f2116b22670f904221a202e5f
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 1.9.10
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 8320
+Filename: pool/main/prev_1.9.10_arm64.deb
+Size: 3277148
+MD5sum: 3b9a2d3841dffa53990003239f967027
+SHA1: bb2fe6dc4f61e231965a9cf297e17b4edade9911
+SHA256: a7fba0d59b1fd6c5d8e151f35f0398a49bf5c465034f4aad64cde90c711e5f3f
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 1.9.2
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 8320
+Filename: pool/main/prev_1.9.2_arm64.deb
+Size: 3286142
+MD5sum: a9508385457d80732d86c0957e08536a
+SHA1: 0cfac3b4f6636dde900e96db25f27d7f96c96d2f
+SHA256: c03b187e853494113a4d2aaebe5be29f9eec9a5d6ffc3216b3c6951a98ff000f
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 1.9.3
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 8320
+Filename: pool/main/prev_1.9.3_arm64.deb
+Size: 3286132
+MD5sum: ce36f918ffa884b3d356df86570fbfd7
+SHA1: 4b577cae3ccf8de14dbcc5cb381e8ffff5afea99
+SHA256: 0a1fcb4af51215268b9ddf769bcabf38d04cdfe41cd506735c3e958a509eb590
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 1.9.4
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 8320
+Filename: pool/main/prev_1.9.4_arm64.deb
+Size: 3286144
+MD5sum: 78d7537d195d0e164e7308e1d5ad887e
+SHA1: c95dde6d090c757ea7bbc69ed16853ad748d6657
+SHA256: 7e9f1c8cb855d6f029e380dc9b02b7b52aa41799770c284ab8a8ea1f8abc0a2a
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 1.9.5
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 8320
+Filename: pool/main/prev_1.9.5_arm64.deb
+Size: 3286148
+MD5sum: 185f1459b9822ae0604257b57f2bb3ac
+SHA1: 03efbf22108e76a34c7d9aa097bde4574deaf31f
+SHA256: 589d5f40eddab133e3ac2299c6a57a0c56d4c8a2cc8376b11e86887693061a6e
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 1.9.6
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 8320
+Filename: pool/main/prev_1.9.6_arm64.deb
+Size: 3286208
+MD5sum: 4653f89e986eb3c6b74a6adcb1b0952b
+SHA1: cab393216a72513c1446393be7618d40c06df913
+SHA256: 3592373d438bdbb1f97a17e2a612d9c4f78fed11d31025d203e19601ae3a6caf
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 1.9.7
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 8320
+Filename: pool/main/prev_1.9.7_arm64.deb
+Size: 3286536
+MD5sum: 96dcbf1bf7f46700ab626b050166135e
+SHA1: 146241dc41c1d31e3c0d4d033eb9934693ff46b9
+SHA256: 08b447ea6582c782d100a38e4b3c476e4b3a23b88a845cc82c7fd733d5812a73
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 1.9.8
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 8320
+Filename: pool/main/prev_1.9.8_arm64.deb
+Size: 3286596
+MD5sum: ceafb3f0dc778521187a4e638cacedaa
+SHA1: 9fe6619f3dff2f8e14c41ff7de96171d97cd16de
+SHA256: f6da309e273532da8ad6921d21b52b3e42300582179002097bf4ccf362f3695c
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 1.9.9
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 8320
+Filename: pool/main/prev_1.9.9_arm64.deb
+Size: 3277142
+MD5sum: 7cc0a260a3908d5e8a8f723b8b12ac78
+SHA1: dabd861e9cc307fcf5e9ac8888e288719da17a49
+SHA256: 4793ef7338767d2d7f193dfe9cf0e1e689ca77096aae09dd3977593269ef553e
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
 Version: 2.0.0
 Architecture: arm64
 Maintainer: support@prev.sh
@@ -8,6 +705,23 @@ Size: 3367314
 MD5sum: 604ae6bb533b94174109823d09b49b5a
 SHA1: 02d97a46210befd04ef22a53d9fff7bd1f5680a2
 SHA256: aee26d7af849c0114f02553e141cbca2c6bf554ccf2ea5810aaf32650bb42402
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
+Package: prev
+Version: 2.1.0
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 8640
+Filename: pool/main/prev_2.1.0_arm64.deb
+Size: 3413222
+MD5sum: 2e642e965080ed644d58946b81a0b633
+SHA1: 57f1ec64e077e677239b23ca1e1adf9a9a114c34
+SHA256: 6094ea87b8803cffa3caad8ded9720b4abe18eaf0b6eb577fb7b0295d5184d4e
 Section: devel
 Priority: optional
 Homepage: https://prev.sh
