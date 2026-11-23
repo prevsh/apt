@@ -2,17 +2,17 @@ Origin: prev.sh
 Label: prev.sh
 Suite: stable
 Codename: stable
-Date: Sun, 22 Nov 2026 18:55:18 +0000
+Date: Mon, 23 Nov 2026 04:58:00 +0000
 Architectures: amd64 arm64
 Components: main
 Description: prev.sh APT Repository
 MD5Sum:
- 0f18fc6d1269878bbf06dcbc25cd2b8b 4738 main/binary-amd64/Packages.gz
- e83d9383767fa2b224fd7c38fe46e81e 19939 main/binary-amd64/Packages
- 48b0e18c0e0e6606a5c0e4a063730958 4708 main/binary-arm64/Packages.gz
- e78f8d48449171a7e0f0bac93dcf9c88 19939 main/binary-arm64/Packages
+ a81aaf0bd54a6ad0c595e7bdeafad84f 4842 main/binary-amd64/Packages.gz
+ aabf9ea7b9967447edab00fe2cb40557 20402 main/binary-amd64/Packages
+ 2982aa4f5130abf5b9ae87b97a4e698e 4811 main/binary-arm64/Packages.gz
+ bd262714aca9a7a849f0438bd6ce550e 20402 main/binary-arm64/Packages
 SHA256:
- 0a6c5ecf89e4e90d7ce684e3385c5fa8fe193a37385ff993d0531d2b0b26ccfa 4738 main/binary-amd64/Packages.gz
- b00285f08d122a1de874f24173368c3f026619dcc02fbb007164a12e8a4fe5ff 19939 main/binary-amd64/Packages
- 80642697cbe7034054e2ee17025bd8819b0b7f5b83d57ff4e6ae469053827faa 4708 main/binary-arm64/Packages.gz
- e04e0e6b4057b0812b9ecaa9bab30ab5b97f1d7c5c18dc86e336f7025f306c4e 19939 main/binary-arm64/Packages
+ 95364d465fda4b1fcafd06b30d5a9863219347fdff09375012288f4f4ad2abfe 4842 main/binary-amd64/Packages.gz
+ b5fcdd7a810b41c51ff265bcdcd859b25a19410d33c8ac5dfaa35c2ee0769d9c 20402 main/binary-amd64/Packages
+ f1797f980dc3f9ecf3b0497e43cab66b33792b51688be26191fb5d1f199f7d4d 4811 main/binary-arm64/Packages.gz
+ a7c23053ad9106937cadac0d9a6a7244a06fccea0e12e973a255608324d1f5ed 20402 main/binary-arm64/Packages
