@@ -763,3 +763,20 @@ Description: Prev CLI - Preview environments for web projects
 License: MIT
 Vendor: Prev
 
+Package: prev
+Version: 2.2.2
+Architecture: arm64
+Maintainer: support@prev.sh
+Installed-Size: 8704
+Filename: pool/main/prev_2.2.2_arm64.deb
+Size: 3447234
+MD5sum: a7bab1ecc7362843190103900a92569d
+SHA1: 67f1035e8ba2e8a41d1380f6de86a69e22fdc9c9
+SHA256: 307159f4240d02e72527306f2c94ac4bb18289ce294974ae0b532873ec2757b8
+Section: devel
+Priority: optional
+Homepage: https://prev.sh
+Description: Prev CLI - Preview environments for web projects
+License: MIT
+Vendor: Prev
+
